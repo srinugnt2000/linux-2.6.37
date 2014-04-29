@@ -1,0 +1,1 @@
+cmd_net/ipv6/xfrm6_mode_beet.ko := arm-none-linux-gnueabi-ld -EL -r  -T /root/kernel-dev/linux-2.6.37/scripts/module-common.lds --build-id  -o net/ipv6/xfrm6_mode_beet.ko net/ipv6/xfrm6_mode_beet.o net/ipv6/xfrm6_mode_beet.mod.o

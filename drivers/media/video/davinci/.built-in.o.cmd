@@ -1,0 +1,1 @@
+cmd_drivers/media/video/davinci/built-in.o :=  arm-none-linux-gnueabi-ld -EL    -r -o drivers/media/video/davinci/built-in.o drivers/media/video/davinci/vpss.o drivers/media/video/davinci/vpbe.o drivers/media/video/davinci/vpbe_osd.o drivers/media/video/davinci/vpbe_venc.o drivers/media/video/davinci/vpbe_display.o drivers/media/video/davinci/vpbe_fb.o 

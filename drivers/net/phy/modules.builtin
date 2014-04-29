@@ -1,0 +1,4 @@
+kernel/drivers/net/phy/libphy.ko
+kernel/drivers/net/phy/lxt.ko
+kernel/drivers/net/phy/smsc.ko
+kernel/drivers/net/phy/et1011c.ko

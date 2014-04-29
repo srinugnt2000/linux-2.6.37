@@ -1,0 +1,1 @@
+cmd_fs/exportfs/exportfs.ko := arm-none-linux-gnueabi-ld -EL -r  -T /root/kernel-dev/linux-2.6.37/scripts/module-common.lds --build-id  -o fs/exportfs/exportfs.ko fs/exportfs/exportfs.o fs/exportfs/exportfs.mod.o

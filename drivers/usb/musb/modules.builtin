@@ -1,0 +1,3 @@
+kernel/drivers/usb/musb/musb_hdrc.ko
+kernel/drivers/usb/musb/da8xx.ko
+kernel/drivers/usb/musb/cppi41dma.ko

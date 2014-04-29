@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/g_file_storage.ko := arm-none-linux-gnueabi-ld -EL -r  -T /root/kernel-dev/linux-2.6.37/scripts/module-common.lds --build-id  -o drivers/usb/gadget/g_file_storage.ko drivers/usb/gadget/g_file_storage.o drivers/usb/gadget/g_file_storage.mod.o

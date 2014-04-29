@@ -1,0 +1,6 @@
+kernel/drivers/media/video/davinci/vpss.ko
+kernel/drivers/media/video/davinci/vpbe.ko
+kernel/drivers/media/video/davinci/vpbe_osd.ko
+kernel/drivers/media/video/davinci/vpbe_venc.ko
+kernel/drivers/media/video/davinci/vpbe_display.ko
+kernel/drivers/media/video/davinci/vpbe_fb.ko

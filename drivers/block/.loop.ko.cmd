@@ -1,0 +1,1 @@
+cmd_drivers/block/loop.ko := arm-none-linux-gnueabi-ld -EL -r  -T /root/kernel-dev/linux-2.6.37/scripts/module-common.lds --build-id  -o drivers/block/loop.ko drivers/block/loop.o drivers/block/loop.mod.o

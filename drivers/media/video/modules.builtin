@@ -1,0 +1,14 @@
+kernel/drivers/media/video/videodev.ko
+kernel/drivers/media/video/v4l2-int-device.ko
+kernel/drivers/media/video/v4l2-common.ko
+kernel/drivers/media/video/v4l1-compat.ko
+kernel/drivers/media/video/videobuf-core.ko
+kernel/drivers/media/video/videobuf-dma-contig.ko
+kernel/drivers/media/video/ir-kbd-i2c.ko
+kernel/drivers/media/video/davinci/vpss.ko
+kernel/drivers/media/video/davinci/vpbe.ko
+kernel/drivers/media/video/davinci/vpbe_osd.ko
+kernel/drivers/media/video/davinci/vpbe_venc.ko
+kernel/drivers/media/video/davinci/vpbe_display.ko
+kernel/drivers/media/video/davinci/vpbe_fb.ko
+kernel/drivers/media/video/uvc/uvcvideo.ko
